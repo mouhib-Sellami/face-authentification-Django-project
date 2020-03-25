@@ -6,7 +6,12 @@ the username is root
 the password is mouhibmj2000+--+*
 
 creat new account from that in USERSS table for testing the authentification
-
+# recommended
+python 3.7
+opencv
+opencv-contrib
+django 
+cmake
 # face-tracking-with-carecter
 
 127.0.0.1:8000/demo
